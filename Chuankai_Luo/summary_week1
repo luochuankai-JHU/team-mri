@@ -1,0 +1,17 @@
+key questions：
+Why has diffusion MRI become a principal modality for mapping connectomes in vivo? 
+How do different image acquisition parameters, fiber tracking algorithms and other methodological choices affect connectome estimation? 
+What are the main factors that dictate the success and failure of connectome reconstruction? 
+
+为什么扩散MRI成为体内连接体映射的主要方式？
+不同的图像采集参数，光纤跟踪算法和其他方法选择如何影响连接组估计？
+决定连接组重建成功和失败的主要因素是什么？这些是我们在本次审核中旨在解决的一些关键问题。
+
+
+Provide an overview of the key methods that can be used to estimate the nodes and edges of macroscale connectomes.
+
+DMRI are still in their infancy.
+
+Reviewed a number of studies that provide evidence of useful microstructural and network properties that can be extracted in various independent and biologically relevant contexts. 
+
+Highlight some of the key deficiencies of current macroscale connectome mapping methodologies and motivate future developments.
