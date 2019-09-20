@@ -1,0 +1,11 @@
+I want to know and use some machine-learning/ deep-learning algorithm to deal with the data. 
+I know it is a little different from the main goal of out team is, but I l love these guys and do not want to change a team.
+I am fully convinced that there must be some point that we can combine these two idea together(maybe add a new function to ndmg 
+or improve the registration part of ndmg and so on)
+
+
+So, I think that what I have to do are two things:
+    1.run through the pipeline, totally understand the process of it, maybe find areas for improvements or the needs of new function.
+    2.continue to study the machine-learning/ deep-learning algorithm. 
+      If we can find the joint point, we can use this methods to ndmg quickly
+   
