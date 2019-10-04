@@ -1,4 +1,4 @@
-
+# copyright sklearn
 import numpy as np
 from sklearn import preprocessing
 from sklearn.preprocessing import LabelBinarizer, label_binarize
